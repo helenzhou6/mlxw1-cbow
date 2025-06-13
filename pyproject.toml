@@ -1,0 +1,11 @@
+[project]
+name = "cbow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9.3"
+dependencies = [
+    "torch==2.2.0",
+    "tqdm>=4.67.1",
+    "wandb>=0.20.1",
+]
